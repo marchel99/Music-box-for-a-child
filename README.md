@@ -1,5 +1,5 @@
 # Music-box-for-a-child
-📦🎵3D Printed Music Box with Rotatory Encoder and LED Strips
+3D Printed Music Box with Rotatory Encoder and LED Strips
 
 ### **Click the link below to see full video!**
 
